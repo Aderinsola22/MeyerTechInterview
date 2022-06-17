@@ -5,5 +5,5 @@ if module is not installed on machine run:
 npm install -g http-server
 
 ##Run
-run "http-server" in the project directory from termninal
+run "http-server" in the project directory from terminal
 website url: 127.0.0.1:8080
